@@ -5,7 +5,21 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/@rahulve42674160" target="blank"><img src="https://img.shields.io/twitter/follow/@rahulve42674160?logo=twitter&style=for-the-badge" alt="@rahulve42674160" /></a> </p>
+<p align="left">
+  <!-- Twitter -->
+  <a href="https://twitter.com/@rahulve42674160" target="blank">
+    <img src="https://img.shields.io/twitter/follow/@rahulve42674160?logo=twitter&style=for-the-badge" alt="@rahulve42674160" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/rahul-verma-tech24" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Portfolio -->
+  <a href="https://your-portfolio-link.com" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 
 - 🌟 I bring **4-5 years of experience in Accounts and Finance**, but over time, I felt drawn to the world of software development.  
 - 🚀 I’m pursuing the **Career Accelerator Program by Prepleaf by Masai**, a 1-year course, where I’ve learned the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) and other modern web technologies.  
