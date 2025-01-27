@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- Portfolio -->
-  <a href="https://your-portfolio-link.com" target="blank">
+  <a href="[https://your-portfolio-link.com](https://my-portfolio-one-beta-98.vercel.app/)" target="blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
   </a>
 </p>
